@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-24T17:29:29.442Z'
+datePublished: '2016-07-12T01:34:07.152Z'
 sourcePath: _posts/2016-04-16-portraits-of-dogs-as-they-shake-off-water.md
 inFeed: true
 isBasedOnUrl: 'http://petapixel.com/2011/07/28/portraits-of-dogs-as-they-shake-off-water/'
@@ -17,7 +17,7 @@ keywords:
   - dogs
 related: []
 author: []
-dateModified: '2016-05-24T17:29:29.369Z'
+dateModified: '2016-07-12T01:34:06.662Z'
 title: Portraits of Dogs as They Shake Off Water
 app_links: []
 publisher:
@@ -25,10 +25,14 @@ publisher:
   name: PetaPixel
   favicon: 'http://petapixel.com/wp-content/themes/petapixel/assets/favicon.ico'
   domain: petapixel.com
-description: "For her series \" Shake\", pet photographer Carli Davidson photographed curious portraits of dogs shaking off water. Use a fast shutter speed and you can capture all kinds of strange expressions on your dog's face. You can find the rest of the photographs in the series here."
+description: >-
+  For her series " Shake", pet photographer Carli Davidson photographed curious
+  portraits of dogs shaking off water. Use a fast shutter speed and you can
+  capture all kinds of strange expressions on your dog's face. You can find the
+  rest of the photographs in the series here.
 inLanguage: en
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
